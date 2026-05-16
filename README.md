@@ -4,13 +4,13 @@
 
 ## Description
 
-This TypeScript-based weather application provides a user-friendly interface for obtaining current weather information for a specific city.
+This weather application provides an interface for obtaining current weather information for a specific city.
 
 ## Features
 
 - Search for weather information by entering a city name.
-- Optio to change to imperial instead of metric system.
-- Displays weather information including temperature, wind speed, humidity, precipitation, and cloud cover.
+- Option to change to imperial instead of metric system.
+- Displays weather information (temperature, wind speed, humidity, precipitation & cloud cover)
 
 ## Technologies Used
 
